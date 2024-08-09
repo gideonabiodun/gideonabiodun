@@ -210,6 +210,7 @@ aside {
 .about-content {
     line-height: 25px;
     padding-top: 1.2rem;
+    /* text-align: justify; */
 }
 
 .tab-titles {
